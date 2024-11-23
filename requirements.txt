@@ -1,0 +1,4 @@
+# python>=3.12.4
+keyboard==0.13.5
+mss==9.0.2
+numpy==2.1.3
